@@ -35,7 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   http: ^1.4.0
-  geolocator: ^8.2.0  # Menambahkan dependensi geolocator untuk lokasi otomatis
+  geolocator: ^11.0.0  # Menambahkan dependensi geolocator untuk lokasi otomatis
 
 dev_dependencies:
   flutter_test:
